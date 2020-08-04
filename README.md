@@ -37,8 +37,13 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 - Typescript
 - ReactJS
 - ReactNative
+- Expo
 - Css
 - Html
+- NodeJS
+- Express
+- Knex
+- Yarn
 
 ## :link: Como contribuir
 
