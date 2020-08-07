@@ -21,6 +21,9 @@ Proffy
 </h3>
 
 <img src="https://uploaddeimagens.com.br/images/002/810/002/original/Anota%C3%A7%C3%A3o_2020-08-03_154536.png?1596480365" width="1200">
+<p align="center">
+<img align="right" src="https://uploaddeimagens.com.br/images/002/817/708/full/Mobile.png?1596824978">
+</p>
 
 ## :information_source: Sobre
 
